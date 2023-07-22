@@ -6,7 +6,7 @@ public class homework {
         System.out.println("Hello,world!");
 
         //2、打印个人信息（姓名、性别、籍贯、住址）
-        System.out.println("姓名\t\t性别\t\t籍贯\t\t住址\n黄林煊\t女\t\t浙江玉环\t玉城街道");
+        System.out.println("姓名\t\t性别\t\t籍贯\t\t住址\n黄**\t女\t\t*江玉*\t玉**道");
 
         //3、JDK、JRE、JVM的关系
         /*
